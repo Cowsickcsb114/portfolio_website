@@ -2,8 +2,8 @@
 
 This project integrates AngularJS frontend with a SQL-based backend providing secure login, CRUD operations and graphical reports. The structure below follows the PDF you uploaded and is easy to expand for multiple projects.
 
-**Features
-**
+**Features**
+
 Login & authentication
 
 CRUD for Sales, Customers, Products
